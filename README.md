@@ -1,5 +1,7 @@
 # Elasticsearch Index Size Tracker - Setup Guide
 
+## NOTE: Script is provided as is. Not endorsed by Elastic! Use at your own risk.
+
 ## Overview
 
 This Python script monitors your Elasticsearch cluster growth by tracking index sizes daily and calculating growth trends. It generates two CSV files:
