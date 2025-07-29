@@ -75,7 +75,7 @@ pip install requests
 
 ### Download the Script:
 
-Save the Python script as `es_tracker.py` in your project directory.
+Save the Python script as `es_index_tracker.py` in your project directory.
 
 ### Configure Your Credentials:
 
