@@ -7,7 +7,7 @@
 #  Tracks index sizes daily and calculates growth trends                   #
 #  Generates comprehensive reports for capacity planning                    #
 #                                                                           #
-#  Author: Your DevOps Team                                                #
+#  Author: Marcus Rodrigues                                                #
 #  Version: 2.0                                                            #
 #  Last Updated: July 2025                                                 #
 #############################################################################
