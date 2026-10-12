@@ -90,7 +90,7 @@ API_KEY = "your-api-key-here"
 
 # With your actual values:
 ES_CLOUD_URL = "https://my-deployment-abc123.es.us-central1.gcp.cloud.es.io:9243"
-API_KEY = "VnVhQ2ZHY0JDZGJrUW0tZTVhT3g6dWkybHA2MzdUeFNXRTJ4ZE1xdjNaUSdx"
+API_KEY = "REDACTED_ES_API_KEY"
 ```
 
 **Security Note**: Keep your API key secure and never commit it to version control.
